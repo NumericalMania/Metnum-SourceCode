@@ -1,6 +1,4 @@
-# Muhammad Bahrul Ulum
-
-#Muhammad Bahrul Ulum - 2003691 - KOM-5A
+# Muhammad Bahrul Ulum - 2003691 - KOM-5A
 
 import numpy as np
 from math import sqrt
