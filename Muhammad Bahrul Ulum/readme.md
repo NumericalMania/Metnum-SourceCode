@@ -1,8 +1,5 @@
 # Muhammad Bahrul Ulum - 2003691 - KOM-5A
 
-    import numpy as np
-    from math import sqrt
-
 #Inisiaslisasi fungsi dalam python 
 
     def newton_raps(f, df, x0, e):
