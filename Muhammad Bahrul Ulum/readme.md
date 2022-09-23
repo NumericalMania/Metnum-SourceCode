@@ -4,9 +4,6 @@ import numpy as np
 from math import sqrt
 
 
-import numpy as np #panggil library
-
-
 def my_newton(f, df, x0, e):
 
     print("Nilai xn: ", x0)
