@@ -15,9 +15,9 @@ def my_newton(f, df, x0, e):
         return my_newton(f, df, xn, e)
 
 
-fx = lambda x: ((x**2)-(2*x)-8)
+fx = lambda x: ((x**2)-(2*x)-8) # inisialisasi fungsi f(x)
 
-f_prime = lambda x: 2*x - 2
+f_prime = lambda x: 2*x - 2 # inisialisasi turunan fungsi f(x)
 
 n = float(input())
 
