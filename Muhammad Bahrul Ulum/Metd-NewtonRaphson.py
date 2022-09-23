@@ -1,9 +1,5 @@
 #Muhammad Bahrul Ulum - 2003691 - KOM-5A
 
-import numpy as np
-from math import sqrt
-
-
 def newton_raphson(f, df, x0, e):
 
     print("Nilai xn: ", x0)
