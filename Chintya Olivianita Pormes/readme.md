@@ -1,6 +1,6 @@
 # Chintya Olivianita Pormes - 2007637 - KOM 5A
 
-# Fungsi untuk operasi perhitungan menggunakan metode Newton Raphson
+    # Fungsi untuk operasi perhitungan menggunakan metode Newton Raphson
     def newton_raphson(f, df, x0, e):
 
         print("Nilai xn: ", x0)
