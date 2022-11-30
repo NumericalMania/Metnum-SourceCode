@@ -2,7 +2,7 @@
 import numpy as np
 import sys
 
-n = int(input('Masukan sebuah angka: '))
+n = int(input('Masukan banyak titik (x1,x2,x3...): '))
 
 a = np.zeros((n,n+1))
 x = np.zeros(n)
